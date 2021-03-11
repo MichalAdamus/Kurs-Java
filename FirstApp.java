@@ -1,7 +1,5 @@
 class FirstApp{
 	public static void main(String args[]){
-		// start programu
-		
 		/*
 		
 		1. pierwszy krok wyświetl imię
